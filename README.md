@@ -1,7 +1,4 @@
-**Excel VBA Programming**
-==========================
-
+# **Excel VBA Programming**
 # 1. Shortcut to Launch VBA
-`Alt-F11` to open the VBA window
-
-`F7` to launch the code editor
+- `Alt-F11` open the VBA window
+- `F7` launch the code editor
